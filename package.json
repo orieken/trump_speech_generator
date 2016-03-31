@@ -1,0 +1,19 @@
+{
+  "name": "trump_speech_generator",
+  "version": "1.0.0",
+  "description": "trump speech generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orieken/trump_speech_generator.git"
+  },
+  "author": "Oscar Rieken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orieken/trump_speech_generator/issues"
+  },
+  "homepage": "https://github.com/orieken/trump_speech_generator#readme"
+}

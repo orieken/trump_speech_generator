@@ -1,0 +1,24 @@
+{
+  "name": "trump_speech_generator",
+  "description": "trump speech generator",
+  "main": "index.js",
+  "authors": [
+    "Oscar Rieken"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/orieken/trump_speech_generator",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
